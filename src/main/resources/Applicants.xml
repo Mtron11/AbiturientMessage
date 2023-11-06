@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<applicants>
+    <applicant>
+        <name>Иванов Иван Иванович</name>
+        <exam subject="Математика" score="90" />
+        <exam subject="Физика" score="85" />
+        <exam subject="Химия" score="78" />
+        <exam subject="Русский язык" score="70" />
+    </applicant>
+    <applicant>
+        <name>Петров Петр Петрович</name>
+        <exam subject="Русский язык" score="88" />
+        <exam subject="История" score="92" />
+        <exam subject="Информатика" score="80" />
+    </applicant>
+    <!-- Добавьте информацию о других абитуриентах -->
+</applicants>

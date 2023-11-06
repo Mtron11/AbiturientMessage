@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<faculties>
+    <faculty>
+        <name>Факультет инженерии</name>
+        <required_subjects>
+            <subject name="Математика" min_score="80" />
+            <subject name="Физика" min_score="75" />
+            <subject name="Русский язык" min_score="50" />
+        </required_subjects>
+        <passing_score>225</passing_score>
+    </faculty>
+    <faculty>
+        <name>Факультет гуманитарных наук</name>
+        <required_subjects>
+            <subject name="Русский язык" min_score="40" />
+            <subject name="История" min_score="35" />
+            <subject name="Литература" min_score="40" />
+            <subject name="Английский язык" min_score="30" />
+        </required_subjects>
+        <passing_score>180</passing_score>
+    </faculty>
+</faculties>
